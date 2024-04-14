@@ -41,6 +41,13 @@ return {
         "gitignore",
         "query",
         "vimdoc",
+        "yang",
+        "python",
+        "go",
+        "gomod",
+        "gosum",
+        "gotmpl",
+        "gowork",
         "c",
       },
       incremental_selection = {
