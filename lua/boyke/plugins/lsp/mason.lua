@@ -38,7 +38,6 @@ return {
         "prismals",
         "pyright",
         "dockerls",
-        "gopls",
       },
     })
     mason_tool_installer.setup({
